@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "spooky-kn",
+		"player1": "evil-spooky",
+		"player2": "kin_I_A",
+		"player3": null,
+		"events": [
+			[
+				5076.92307692308,
+				[
+					[
+						"Playsound",
+						"Kin_Hey",
+						"0.2"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				36923.0769230769,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kin_I_B"
+					],
+					[
+						"Black_Screen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				66461.5384615384,
+				[
+					[
+						"Healthdrain",
+						"0.0075",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "inescapable"
+	}
+}

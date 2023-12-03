@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Skid Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Skid Sing Left"
+		},
+		{
+			"offsets": [
+				16,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Skid Sing Down"
+		},
+		{
+			"offsets": [
+				0,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Skid Sing Right"
+		},
+		{
+			"offsets": [
+				-1,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Skid Sing Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/Skid_Sitting",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "skid-sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,904 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "spooky-kn",
+		"player1": "evil-spooky-glow",
+		"player2": "kinE",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Healthdrain",
+						"",
+						"0.0025"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Healthdrain",
+						"0.015",
+						"0.00075"
+					],
+					[
+						"Change Character",
+						"dad",
+						"kin_LS_B"
+					],
+					[
+						"Black_Screen",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Healthdrain",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kin_LS_C"
+					],
+					[
+						"Playsound",
+						"DemonLaught",
+						"1"
+					],
+					[
+						"Black_Screen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				113600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				114400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				114600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					],
+					[
+						"Playsound",
+						"Lights_Shut_off",
+						"0.75"
+					],
+					[
+						"Screen Shake",
+						"0.25, 0.05",
+						"0.25, 0.05"
+					]
+				]
+			],
+			[
+				114700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				114800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				114900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				115000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				115047.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				115100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				115150,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.015"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kin_LS_D"
+					],
+					[
+						"Healthdrain",
+						"0.02",
+						""
+					],
+					[
+						"health_set",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116950,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117150,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117350,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117550,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120150,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120350,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120550,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120750,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127900,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kin_LS_E"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Healthdrain",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Healthdrain",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				140800,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"360"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-defeat"
+					],
+					[
+						"Set Cam Zoom",
+						"1.05",
+						""
+					],
+					[
+						"Black_Screen",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				150400,
+				[
+					[
+						"Playsound",
+						"DemonLaught",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"kinEvil"
+					],
+					[
+						"Black_Screen",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "last-stand"
+	}
+}

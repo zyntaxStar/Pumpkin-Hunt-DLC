@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "anomaly",
+		"player1": "kin_AC_1",
+		"player2": "wickedbf_AC_1",
+		"player3": null,
+		"events": [
+			[
+				60631.5789473684,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"wickedbf_AC_2"
+					],
+					[
+						"Change Scroll Speed",
+						"1.125",
+						""
+					]
+				]
+			],
+			[
+				60710.5263157894,
+				[
+					[
+						"Healthdrain",
+						"0.0225",
+						""
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"Healthgain",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				101052.631578947,
+				[
+					[
+						"Healthdrain",
+						"0.01",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"wickedbf_AC_1"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102315.789473684,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						"0.75"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "anomaly-clash"
+	}
+}

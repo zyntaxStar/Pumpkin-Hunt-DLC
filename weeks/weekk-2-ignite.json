@@ -1,0 +1,58 @@
+{
+	"storyName": "Star fall",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "cemetary",
+	"freeplayColor": [
+		32,
+		64,
+		128
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ignite",
+			"kin_LS_A",
+			[
+				40,
+				24,
+				0
+			]
+		],
+		[
+			"sylophar",
+			"skid-sad",
+			[
+				144,
+				144,
+				160
+			]
+		],
+		[
+			"spooky-trinity",
+			"kin-ST-1",
+			[
+				74,
+				242,
+				226
+			]
+		],
+		[
+			"consequential",
+			"bf-c-2",
+			[
+				74,
+				242,
+				226
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"kin-naire",
+		""
+	],
+	"weekName": "weekk"
+}

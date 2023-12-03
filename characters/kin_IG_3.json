@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kin Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-168
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kin Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kin Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				0
+			],
+			"anim": "collapse",
+			"fps": 24,
+			"name": "Kin Collapse",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-fallen",
+			"loop": false,
+			"name": "Kin Collapse0008"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/Kin_IG_3",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "kin-IG-3",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

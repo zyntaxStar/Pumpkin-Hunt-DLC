@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kin Idle"
+		},
+		{
+			"offsets": [
+				32,
+				459
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kin Sing Left"
+		},
+		{
+			"offsets": [
+				-16,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kin Sing Down"
+		},
+		{
+			"offsets": [
+				0,
+				416
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kin Sing Up"
+		},
+		{
+			"offsets": [
+				16,
+				367
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kin Sing Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/Kin_IG_2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kin-IG-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		242,
+		225
+	],
+	"camera_position": [
+		64,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Evil_Frank.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Frank Grab Intro0000" x="0" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0001" x="0" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0002" x="744" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0003" x="744" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0004" x="1488" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0005" x="1488" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0006" x="2232" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0007" x="2232" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0008" x="1488" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0009" x="1488" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0010" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0011" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0012" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0013" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0014" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0015" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0016" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0017" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0018" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0019" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0020" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0021" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0022" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab Intro0023" x="2976" y="0" width="728" height="823"/>
+	<SubTexture name="Frank Grab loop0000" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0001" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0002" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0003" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0004" x="480" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0005" x="960" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0006" x="1440" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0007" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0008" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0009" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0010" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0011" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0012" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0013" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0014" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0015" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0016" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0017" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0018" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0019" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0020" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0021" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0022" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Grab loop0023" x="0" y="839" width="464" height="815"/>
+	<SubTexture name="Frank Idle0000" x="1920" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0001" x="1920" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0002" x="2366" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0003" x="2366" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0004" x="2812" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0005" x="2812" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0006" x="3258" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0007" x="3258" y="839" width="430" height="815"/>
+	<SubTexture name="Frank Idle0008" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0009" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0010" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0011" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0012" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0013" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0014" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0015" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0016" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0017" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0018" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0019" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0020" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0021" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0022" x="0" y="1670" width="430" height="815"/>
+	<SubTexture name="Frank Idle0023" x="0" y="1670" width="430" height="815"/>
+</TextureAtlas>

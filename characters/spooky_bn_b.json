@@ -1,0 +1,198 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "note sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-136
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "note sing down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-48,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "note miss up"
+		},
+		{
+			"offsets": [
+				72,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "note miss right"
+		},
+		{
+			"offsets": [
+				-8,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "note miss left"
+		},
+		{
+			"offsets": [
+				-32,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "note miss down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spooky dance idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "spooky lose"
+		},
+		{
+			"offsets": [
+				-60,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "spooky lose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				32
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "spooky dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				2,
+				4,
+				6
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "spooky dance idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spooky_BN_B",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "evil-spooky-s2",
+	"flip_x": false,
+	"healthbar_colors": [
+		222,
+		39,
+		117
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

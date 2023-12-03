@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Dad idle dance Glow"
+    },
+    {
+      "offsets": [
+        -3,
+        20
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Dad Sing NOTE RIGHT Glow"
+    },
+    {
+      "offsets": [
+        -8,
+        49
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Dad Sing NOTE UP Glow"
+    },
+    {
+      "offsets": [
+        -7,
+        11
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singLEFT",
+      "loop": false,
+      "name": "Dad Sing Note LEFT Glow0"
+    },
+    {
+      "offsets": [
+        0,
+        -4
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singDOWN",
+      "loop": false,
+      "name": "Dad Sing Note DOWN"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/star_duo/dad_1",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "dad-duo-1",
+  "flip_x": false,
+  "healthbar_colors": [
+    175,
+    102,
+    206
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

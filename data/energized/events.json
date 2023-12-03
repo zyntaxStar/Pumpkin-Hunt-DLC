@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "spooky-kn",
+		"player1": "evil-spooky",
+		"player2": "kin_Funkin",
+		"player3": null,
+		"events": [
+			[
+				101.351351351351,
+				[
+					[
+						"Healthdrain",
+						"0.02125",
+						""
+					]
+				]
+			],
+			[
+				12972.972972973,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29189.1891891892,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55135.1351351351,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky_ST_5"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110270.27027027,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky_ST_4"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162162.162162162,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky_ST_3"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				207567.567567568,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky_eg_d"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 148,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "energized"
+	}
+}

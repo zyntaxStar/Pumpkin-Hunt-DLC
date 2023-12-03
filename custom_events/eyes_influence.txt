@@ -1,0 +1,5 @@
+Is this character possesed?
+
+on = Yes
+off = no
+-Conent

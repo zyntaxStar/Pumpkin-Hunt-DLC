@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "philly",
+		"player1": "bf-dad",
+		"player2": "pico-blammed",
+		"player3": null,
+		"events": [
+			[
+				104727.272727273,
+				[
+					[
+						"Playsound",
+						"shooters",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"pico-blammed2"
+					],
+					[
+						"Healthdrain",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				209454.545454545,
+				[
+					[
+						"Playsound",
+						"shooters",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"pico2"
+					],
+					[
+						"Healthdrain",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "CBlammed"
+	}
+}

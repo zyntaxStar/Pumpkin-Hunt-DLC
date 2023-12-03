@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-48,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "note sing up"
+		},
+		{
+			"offsets": [
+				72,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing right"
+		},
+		{
+			"offsets": [
+				-96,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				-32,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "note sing down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "note miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "note miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "note miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-136
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "note miss down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spooky dance idle"
+		},
+		{
+			"offsets": [
+				-16,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "spooky dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/Evil_Spookeez_C3",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "evil-spooky-c3",
+	"flip_x": false,
+	"healthbar_colors": [
+		222,
+		39,
+		117
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

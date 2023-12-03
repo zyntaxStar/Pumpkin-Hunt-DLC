@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kin Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Attack",
+			"indices": [],
+			"name": "Kin Attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kin Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-159
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kin Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Sing Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/ST_Kin_C",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "kin-ST-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		64,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

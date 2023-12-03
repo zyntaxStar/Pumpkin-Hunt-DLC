@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stars_Align.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stars Aligning0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Stars Aligning0001" x="1296" y="0" width="1280" height="720"/>
+	<SubTexture name="Stars Aligning0002" x="2592" y="0" width="1280" height="720"/>
+	<SubTexture name="Stars Aligning0003" x="0" y="736" width="1280" height="720"/>
+</TextureAtlas>

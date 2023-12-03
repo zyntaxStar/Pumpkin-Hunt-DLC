@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "candy-store",
+		"player1": "kin-player",
+		"player2": "mom_P_1",
+		"player3": null,
+		"events": [
+			[
+				41142.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mom-wolf-alt"
+					],
+					[
+						"Black_Screen",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mom_P_2"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "pression"
+	}
+}

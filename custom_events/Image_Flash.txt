@@ -1,0 +1,7 @@
+Funny Image flash
+
+-Conent
+
+Value 1 = Duration
+
+Value 2 = Image source

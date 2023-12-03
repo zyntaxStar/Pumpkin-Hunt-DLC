@@ -1,0 +1,3 @@
+For some reason adding LUA texts on this was literally impossible. So I gave up and decided to use a sprite instead
+
+-Conenter

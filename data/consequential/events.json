@@ -1,0 +1,154 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "spooky-knB",
+		"player1": "bf_ST_4",
+		"player2": "mom-valor",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"0.925",
+						"0.75"
+					],
+					[
+						"Healthdrain",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				72727.2727272727,
+				[
+					[
+						"Set Cam Zoom",
+						"0.95",
+						"1.25"
+					],
+					[
+						"Change Character",
+						"dad",
+						"mom-wolf-alt"
+					],
+					[
+						"Black_Screen",
+						"0.75",
+						""
+					],
+					[
+						"Healthdrain",
+						"-0.01",
+						""
+					]
+				]
+			],
+			[
+				74545.4545454545,
+				[
+					[
+						"Change Character",
+						"dad",
+						"momd2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_C_2"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76363.6363636364,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mom_C_3"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_C_3"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.25",
+						"7"
+					]
+				]
+			],
+			[
+				87272.7272727273,
+				[
+					[
+						"Black_Screen",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_C_4"
+					],
+					[
+						"Change Character",
+						"dad",
+						"mom-wolf"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.05",
+						"0.0, 0.0"
+					],
+					[
+						"Healthgain",
+						"-0.015",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.925",
+						""
+					],
+					[
+						"Playsound",
+						"Lights_Turn_On",
+						"0.25"
+					],
+					[
+						"Healthdrain",
+						"0.0125",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 132,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "consequential"
+	}
+}

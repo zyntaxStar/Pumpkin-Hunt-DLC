@@ -1,0 +1,4 @@
+Sets the health value to the Number you pick
+Works with Value 1
+
+-Conent

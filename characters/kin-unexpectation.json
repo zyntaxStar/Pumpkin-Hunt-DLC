@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kin Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				17
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Kin Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				63
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Kin Left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				64
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Kin Right MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				62
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Kin Up MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-82
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Kin Down MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kin Up0"
+		},
+		{
+			"offsets": [
+				-154,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kin Left0"
+		},
+		{
+			"offsets": [
+				-8,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kin Down0"
+		},
+		{
+			"offsets": [
+				23,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kin Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-54
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Kin Dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kin_Unexpectation",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "kin-unexpectation",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		400,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

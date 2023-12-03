@@ -1,0 +1,94 @@
+{
+	"storyName": "Pumpkin hunt",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "cemetary",
+	"freeplayColor": [
+		32,
+		64,
+		128
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"extended-finale",
+			"dad-3",
+			[
+				66,
+				33,
+				113
+			]
+		],
+		[
+			"inescapable-remix",
+			"kin-I-A",
+			[
+				160,
+				96,
+				0
+			]
+		],
+		[
+			"star-duo",
+			"dad-duo-1",
+			[
+				66,
+				33,
+				113
+			]
+		],
+		[
+			"the-weakest-enemy",
+			"sans",
+			[
+				192,
+				192,
+				192
+			]
+		],
+		[
+			"unexpectation",
+			"mom-4",
+			[
+				126,
+				75,
+				107
+			]
+		],
+		[
+			"pression",
+			"mom-P-1",
+			[
+				252,
+				150,
+				215
+			]
+		],
+		[
+			"energized",
+			"kin-funkin",
+			[
+				192,
+				112,
+				0
+			]
+		],
+		[
+			"anomaly-clash",
+			"wicked-bf",
+			[
+				32,
+				32,
+				32
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"kin-naire",
+		""
+	],
+	"weekName": "weekk"
+}

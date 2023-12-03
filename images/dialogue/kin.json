@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-60,
+		-120
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kin_happy0000",
+			"loop_name": "kin_happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Curious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "kin_curious",
+			"idle_name": "kin_curious0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Deathstare",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "kin_deathstare",
+			"idle_name": "kin_deathstare0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "kin_annoyed",
+			"idle_name": "kin_annoyed0000"
+		},
+		{
+			"loop_offsets": [
+				224,
+				0
+			],
+			"anim": "Nervous",
+			"idle_offsets": [
+				224,
+				0
+			],
+			"loop_name": "kin_nervous",
+			"idle_name": "kin_nervous0000"
+		},
+		{
+			"loop_offsets": [
+				224,
+				0
+			],
+			"anim": "Scared",
+			"idle_offsets": [
+				224,
+				0
+			],
+			"loop_name": "kin_scared",
+			"idle_name": "kin_scared0000"
+		},
+		{
+			"loop_offsets": [
+				224,
+				0
+			],
+			"anim": "CrysWhy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "kin_crys_why",
+			"idle_name": "kin_crys_why0000"
+		}
+	],
+	"image": "kin_dialogue"
+}

@@ -1,0 +1,154 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "note sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-144
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "note sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spooky dance idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				4,
+				6
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				28
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "note sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				-18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "note sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-141
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "note sing down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/ST_Spooky_2",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spooky-st-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

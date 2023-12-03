@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skid_Sitting.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skid Idle0000" x="0" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0001" x="0" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0002" x="375" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0003" x="375" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0004" x="750" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0005" x="750" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0006" x="1125" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0007" x="1125" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0008" x="1500" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0009" x="1500" y="0" width="359" height="408"/>
+	<SubTexture name="Skid Idle0010" x="0" y="424" width="359" height="408"/>
+	<SubTexture name="Skid Idle0011" x="0" y="424" width="359" height="408"/>
+	<SubTexture name="Skid Idle0012" x="0" y="424" width="359" height="408"/>
+	<SubTexture name="Skid Idle0013" x="0" y="424" width="359" height="408"/>
+	<SubTexture name="Skid Idle0014" x="0" y="424" width="359" height="408"/>
+	<SubTexture name="Skid Idle0015" x="0" y="424" width="359" height="408"/>
+	<SubTexture name="Skid Sing Down0000" x="375" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0001" x="375" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0002" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0003" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0004" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0005" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0006" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0007" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0008" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0009" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0010" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0011" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0012" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0013" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0014" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Down0015" x="760" y="424" width="369" height="400"/>
+	<SubTexture name="Skid Sing Left0000" x="1145" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0001" x="1145" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0002" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0003" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0004" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0005" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0006" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0007" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0008" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0009" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0010" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0011" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0012" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0013" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0014" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Left0015" x="1518" y="424" width="357" height="423"/>
+	<SubTexture name="Skid Sing Right0000" x="0" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0001" x="0" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0002" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0003" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0004" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0005" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0006" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0007" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0008" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0009" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0010" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0011" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0012" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0013" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0014" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Right0015" x="370" y="863" width="354" height="410"/>
+	<SubTexture name="Skid Sing Up0000" x="740" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0001" x="740" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0002" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0003" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0004" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0005" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0006" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0007" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0008" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0009" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0010" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0011" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0012" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0013" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0014" x="1109" y="863" width="353" height="429"/>
+	<SubTexture name="Skid Sing Up0015" x="1109" y="863" width="353" height="429"/>
+</TextureAtlas>

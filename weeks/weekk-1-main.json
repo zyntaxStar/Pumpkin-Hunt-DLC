@@ -1,0 +1,49 @@
+{
+	"storyName": "Pumpkin hunt",
+	"difficulties": "easy, normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "cemetary",
+	"freeplayColor": [
+		32,
+		64,
+		128
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"inescapable",
+			"kin-I-A",
+			[
+				160,
+				96,
+				0
+			]
+		],
+		[
+			"broken-nerve",
+			"kin-BN-A",
+			[
+				128,
+				80,
+				0
+			]
+		],
+		[
+			"last-stand",
+			"kin_LS_A",
+			[
+				80,
+				48,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"kin-naire",
+		""
+	],
+	"weekName": "weekk"
+}

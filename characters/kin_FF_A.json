@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kin Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-139,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Kin Miss Left"
+		},
+		{
+			"offsets": [
+				40,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Kin Miss Right"
+		},
+		{
+			"offsets": [
+				4,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Kin Miss Up"
+		},
+		{
+			"offsets": [
+				10,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Kin Miss Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kin Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-158
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kin Sing Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evil_Kin_ff",
+	"position": [
+		40,
+		0
+	],
+	"healthicon": "kin_ff",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

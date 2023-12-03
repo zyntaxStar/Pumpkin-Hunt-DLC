@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "spooky-killer-og",
+		"player1": "kin-player",
+		"player2": "sans",
+		"player3": null,
+		"events": [
+			[
+				25945.9459459459,
+				[
+					[
+						"Healthdrain",
+						"0.0075",
+						""
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"Healthdrain",
+						"0.0125",
+						""
+					]
+				]
+			],
+			[
+				155675.675675676,
+				[
+					[
+						"Healthdrain",
+						"0.0075",
+						""
+					]
+				]
+			],
+			[
+				165405.405405406,
+				[
+					[
+						"Healthdrain",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 148,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "the-weakest-enemy"
+	}
+}

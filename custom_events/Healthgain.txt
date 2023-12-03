@@ -1,0 +1,7 @@
+Alternable Healthdgain editable.
+
+0 means you gain health normally
+numbers below 0 makes it lower
+numbers above 0 makes it bigger
+
+Coded by The Conenter

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				28
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Skid Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Skid Sing Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/Skid_Happy",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "skid-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

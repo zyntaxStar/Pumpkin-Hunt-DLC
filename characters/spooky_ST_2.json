@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				0,
+				2,
+				4,
+				6
+			]
+		},
+		{
+			"offsets": [
+				-21,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "note sing up"
+		},
+		{
+			"offsets": [
+				-134,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "note sing right"
+		},
+		{
+			"offsets": [
+				-26,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "note sing down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/ST_Spooky_2",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "spooky-st-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,2 @@
+Makes the screen go black and fade back to normal, pretty much useful for transitions.
+-Conent

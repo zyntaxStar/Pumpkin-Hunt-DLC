@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kin_LS_A.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kin Attack0000" x="0" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0001" x="794" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0002" x="1588" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0003" x="2382" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0004" x="3176" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0005" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0006" x="4764" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0007" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0008" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0009" x="4764" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0010" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0011" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0012" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0013" x="4764" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0014" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Attack0015" x="3970" y="0" width="778" height="761"/>
+	<SubTexture name="Kin Idle0000" x="5558" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0001" x="5965" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0002" x="6372" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0003" x="6779" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0004" x="7186" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0005" x="6372" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0006" x="5558" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0007" x="5965" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0008" x="7593" y="0" width="391" height="754"/>
+	<SubTexture name="Kin Idle0009" x="0" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Idle0010" x="407" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Idle0011" x="814" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Idle0012" x="1221" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Idle0013" x="407" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Idle0014" x="407" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Idle0015" x="814" y="777" width="391" height="754"/>
+	<SubTexture name="Kin Sing Down0000" x="1628" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0001" x="2028" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0002" x="2428" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0003" x="2828" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0004" x="3228" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0005" x="3628" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0006" x="4028" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0007" x="4428" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0008" x="3228" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0009" x="3628" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0010" x="4028" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0011" x="3228" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0012" x="3628" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0013" x="4028" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0014" x="4428" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Down0015" x="3228" y="777" width="384" height="748"/>
+	<SubTexture name="Kin Sing Left0000" x="4828" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0001" x="5240" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0002" x="5652" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0003" x="6064" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0004" x="6476" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0005" x="6888" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0006" x="5652" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0007" x="6064" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0008" x="6476" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0009" x="7300" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0010" x="5652" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0011" x="6476" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0012" x="7300" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0013" x="5652" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0014" x="7712" y="777" width="396" height="755"/>
+	<SubTexture name="Kin Sing Left0015" x="0" y="1548" width="396" height="755"/>
+	<SubTexture name="Kin Sing Right0000" x="412" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0001" x="834" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0002" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0003" x="1678" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0004" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0005" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0006" x="2100" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0007" x="2522" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0008" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0009" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0010" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0011" x="1678" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0012" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0013" x="1256" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0014" x="2944" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Right0015" x="3366" y="1548" width="406" height="744"/>
+	<SubTexture name="Kin Sing Up0000" x="3788" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0001" x="3788" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0002" x="4189" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0003" x="4189" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0004" x="4590" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0005" x="4590" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0006" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0007" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0008" x="5392" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0009" x="5793" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0010" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0011" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0012" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0013" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0014" x="4991" y="1548" width="385" height="768"/>
+	<SubTexture name="Kin Sing Up0015" x="4991" y="1548" width="385" height="768"/>
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kin Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kin Sing Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-166
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Sing Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				82,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kin Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Sing Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Attack",
+			"indices": [],
+			"name": "Kin Attack A"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Kin Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kin-I-A",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "kin-I-A",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		64,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

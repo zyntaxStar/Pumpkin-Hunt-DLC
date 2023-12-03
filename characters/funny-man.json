@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Funny Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Funny Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-164
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Funny Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-152
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Funny Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Funny Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FunnyMan",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "funny-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		2
+	],
+	"camera_position": [
+		80,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

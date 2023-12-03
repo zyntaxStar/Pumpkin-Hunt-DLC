@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dyan Left"
+		},
+		{
+			"offsets": [
+				2,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dyan Down"
+		},
+		{
+			"offsets": [
+				-6,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dyan Up"
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dyan Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dyan Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dyan1_2",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "Dyan-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		138,
+		163
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

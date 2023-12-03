@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "kin",
+			"speed": 0.075,
+			"portrait": "kin",
+			"boxState": "normal",
+			"expression": "Curious",
+			"text": "That was a tough one. But i'm WAY harder to take down than that."
+		},
+		{
+			"sound": "kin",
+			"speed": 0.05,
+			"portrait": "kin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, now I have to find a place for these two to rest in."
+		},
+		{
+			"sound": "kin",
+			"speed": 0.05,
+			"portrait": "kin",
+			"boxState": "normal",
+			"expression": "Curious",
+			"text": "This is going to be a business flip for these monsters."
+		}
+	]
+}

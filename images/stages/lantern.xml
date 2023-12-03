@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lantern.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lantern0000" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0001" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0002" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0003" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0004" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0005" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0006" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0007" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0008" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0009" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0010" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0011" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0012" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0013" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0014" x="0" y="0" width="204" height="125"/>
+	<SubTexture name="Lantern0015" x="0" y="0" width="204" height="125"/>
+</TextureAtlas>

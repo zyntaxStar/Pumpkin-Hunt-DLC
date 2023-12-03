@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kin Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kin Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kin Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				7
+			],
+			"anim": "Attack",
+			"fps": 24,
+			"name": "Kin Attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kin_LS_A",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "Kin_LS_A",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		-64,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

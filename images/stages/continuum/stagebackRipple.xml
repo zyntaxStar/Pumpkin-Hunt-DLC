@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stagebackRipple.png"><SubTexture name="stagebackRipple idle0000" x="0" y="0" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0000" x="719" y="0" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0001" x="0" y="393" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0002" x="719" y="393" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0003" x="0" y="786" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0004" x="719" y="786" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0005" x="1438" y="0" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0006" x="1438" y="393" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0007" x="1438" y="786" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0008" x="0" y="1179" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0009" x="719" y="1179" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0010" x="1438" y="1179" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0011" x="0" y="1572" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0012" x="719" y="1572" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0013" x="1438" y="1572" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0014" x="2157" y="0" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0015" x="2157" y="393" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0016" x="2157" y="786" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0017" x="2157" y="1179" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0018" x="2157" y="1572" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0019" x="0" y="1965" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0020" x="719" y="1965" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0021" x="1438" y="1965" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0022" x="2157" y="1965" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple forward0023" x="0" y="2358" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple motion0000" x="719" y="2358" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple motion0001" x="1438" y="2358" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+<SubTexture name="stagebackRipple motion0002" x="0" y="2358" width="719" height="393" frameX="0" frameY="0" frameWidth="719" frameHeight="393" />
+</TextureAtlas>

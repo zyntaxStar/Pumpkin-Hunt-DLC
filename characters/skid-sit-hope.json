@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Skid Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-63
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Skid Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-86
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Skid Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-76
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Skid Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Skid Sing Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stars/Skid_Sitting_Hope",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "skid-hope",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

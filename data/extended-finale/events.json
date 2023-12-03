@@ -1,0 +1,214 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage-d3",
+		"player1": "bf-blank",
+		"player2": "dad-fakeout",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Healthdrain",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				43916.6666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-dad"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-pissed"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-pissed"
+					]
+				]
+			],
+			[
+				87916.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"pico-dad"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Healthdrain",
+						"0.0125",
+						""
+					]
+				]
+			],
+			[
+				122583.333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"spooky-corrupt"
+					]
+				]
+			],
+			[
+				122666.666666667,
+				[
+					[
+						"Healthdrain",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				177250,
+				[
+					[
+						"Change Character",
+						"0",
+						"kin_FF_A"
+					]
+				]
+			],
+			[
+				177333.333333333,
+				[
+					[
+						"Healthdrain",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				231916.666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"mom-dad"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-mom"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-mom"
+					]
+				]
+			],
+			[
+				232000.000000001,
+				[
+					[
+						"Healthdrain",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				299916.666666668,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-dad"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-bf1"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-bf1"
+					]
+				]
+			],
+			[
+				300000,
+				[
+					[
+						"Healthdrain",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				374666.666666666,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bf2"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-bf2"
+					]
+				]
+			],
+			[
+				417333.333333332,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf3"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-bf3"
+					]
+				]
+			],
+			[
+				473333.333333331,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-corrupt"
+					],
+					[
+						"Change Character",
+						"1",
+						"dad-corrupt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-fakeout",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "extended-finale"
+	}
+}

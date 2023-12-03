@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "spooky-kn",
+		"player1": "evil-spooky-glow",
+		"player2": "kinE",
+		"player3": null,
+		"events": [
+			[
+				66909.0909090909,
+				[
+					[
+						"Image_Flash",
+						"1",
+						"stages/texts/eyes1"
+					]
+				]
+			],
+			[
+				70909.0909090909,
+				[
+					[
+						"Playsound",
+						"eyes_scream",
+						"1.0"
+					]
+				]
+			],
+			[
+				72909.0909090909,
+				[
+					[
+						"stage-event",
+						"eyes_on",
+						"1.25"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Ignite"
+	}
+}

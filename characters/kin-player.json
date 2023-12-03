@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kin Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Kin Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				47
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Kin Left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				48
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Kin Right MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Kin Up MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Kin Down MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Kin Gameover intro"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Kin Gameover Loop"
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Kin Gameover End"
+		},
+		{
+			"offsets": [
+				-4,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kin Up0"
+		},
+		{
+			"offsets": [
+				-140,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kin Left0"
+		},
+		{
+			"offsets": [
+				10,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kin Down0"
+		},
+		{
+			"offsets": [
+				40,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kin Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-70
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Kin Dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				401,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Attack",
+			"loop": false,
+			"name": "Kin Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kin_Player",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "kin",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		32,
+		24
+	],
+	"camera_position": [
+		400,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,279 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "spooky-kn",
+		"player1": "evil-spooky-glow",
+		"player2": "kin_LS_A",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Set Cam Zoom",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				66909.0909090909,
+				[
+					[
+						"Set Cam Zoom",
+						"0.975",
+						"1.5"
+					],
+					[
+						"Image_Flash",
+						"1",
+						"stages/texts/eyes1"
+					]
+				]
+			],
+			[
+				70909.0909090909,
+				[
+					[
+						"Set Cam Zoom",
+						"0.875",
+						""
+					],
+					[
+						"Playsound",
+						"eyes_scream",
+						"1"
+					]
+				]
+			],
+			[
+				72909.0909090909,
+				[
+					[
+						"stage-event",
+						"eyes_on",
+						"0.75"
+					]
+				]
+			],
+			[
+				74909.0909090909,
+				[
+					[
+						"eyes_influence",
+						"on",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"kin_IG_2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"spooky_IG_2"
+					],
+					[
+						"Playsound",
+						"Lights_Shut_Off",
+						"0.75"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Healthdrain",
+						"0.0275",
+						""
+					],
+					[
+						"health_set",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				103709.090909091,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"spooky_IG_3"
+					]
+				]
+			],
+			[
+				132509.090909091,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky_IG_4"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170909.090909091,
+				[
+					[
+						"health_set",
+						"0.75",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"spooky_IG_5"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				199709.090909091,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spooky_IG_6"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"health_set",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				226109.090909091,
+				[
+					[
+						"Healthdrain",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				228509.090909091,
+				[
+					[
+						"health_set",
+						"0.1",
+						""
+					],
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-safe"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"eyes_influence",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				229109.090909091,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kin_IG_3"
+					]
+				]
+			],
+			[
+				229139.090909091,
+				[
+					[
+						"Play Animation",
+						"collapse",
+						"dad"
+					]
+				]
+			],
+			[
+				229184.090909091,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-fallen"
+					]
+				]
+			],
+			[
+				229259.090909091,
+				[
+					[
+						"Camera Follow Pos",
+						"960",
+						"640"
+					]
+				]
+			],
+			[
+				229709.090909091,
+				[
+					[
+						"stage-event",
+						"eyes_off",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-fake",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Ignite"
+	}
+}

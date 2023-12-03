@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kin Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kin Sing Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-138
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Sing Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				122,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kin Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				10
+			],
+			"anim": "Attack",
+			"fps": 24,
+			"name": "Kin Attack0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "run_intro",
+			"indices": [],
+			"name": "Kin Run Away Intro"
+		},
+		{
+			"offsets": [
+				1030,
+				20
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "runAway",
+			"loop": false,
+			"name": "Kin Run Away0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evil_Kin_ff",
+	"position": [
+		160,
+		0
+	],
+	"healthicon": "kin_ff",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

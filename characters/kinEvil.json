@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kin Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kin Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kin Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kin Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kin Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evil_Kin",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "Ckin",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		2,
+		0
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
